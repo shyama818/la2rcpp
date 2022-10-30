@@ -1,0 +1,13 @@
+Package: la2rcpp
+Type: Package
+Title: c++ functions for machine learning called from la2r package
+Version: 1.0.0
+Date: 2022-10-30
+Author:  Shinichi Yamada <shyama818@gmail.com>
+Maintainer:  Shinichi Yamada <shyama818@gmail.com>
+Description: This package contains c++ functions for machine learning called from la2r package.
+License: GPL-3
+Encoding: UTF-8
+RoxygenNote: 7.2.1
+Imports: Rcpp (>= 1.0.8)
+LinkingTo: Rcpp, RcppArmadillo
